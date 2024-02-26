@@ -240,7 +240,7 @@ chosenNumber = pyautogui.prompt(text='Choose a number between 22 and 99: ', titl
 
 A = str(int(chosenNumber)-20)
 B = str(int(A)+1)
-C = str(int(B)+2)
+C = str(int(B)+1)
 D = str(int(A)-1) 
 
 pyautogui.alert("Press OK or close this window to start: ")
