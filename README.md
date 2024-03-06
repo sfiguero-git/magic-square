@@ -1,5 +1,5 @@
 # Magic Square
-This is a Python sample that uses PyAutoGUI ans OpenCV to draw a 4x4 magic square in MS Paint. This project was tested on Windows 10.
+This is a Python sample that uses PyAutoGUI and OpenCV to draw a 4x4 magic square in MS Paint. This project was tested on Windows 10.
 More information about magic squares and the mathematics behind them can be found at: https://mathworld.wolfram.com/MagicSquare.html
 
 
