@@ -13,7 +13,7 @@ More information about magic squares and the mathematics behind them can be foun
 `pip install opencv-python`
 
 The program asks for some input and displays some additional instructions through pop-up windows. Just be sure to have
-MS Paint open in a maximized windows and without the status bar enabled as shown here:
+MS Paint open in a maximized window and without the status bar enabled as shown here:
 
 ![image](https://github.com/sfiguero-git/magic-square/assets/35702217/23e8a569-e421-4d7d-b460-17ebee4804a0)
 
