@@ -1,3 +1,5 @@
+![Magic Square Banner](https://github.com/sfiguero-git/magic-square/assets/35702217/e64aa233-29b9-4442-9566-df130d7c0494)
+
 # Magic Square
 This is a Python sample that uses PyAutoGUI and OpenCV to draw a 4x4 magic square in MS Paint. This project was tested on Windows 10.
 More information about magic squares and the mathematics behind them can be found at: https://mathworld.wolfram.com/MagicSquare.html
